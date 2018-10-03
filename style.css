@@ -1,0 +1,41 @@
+.jumbotron{
+    height: 200px;
+    text-align: center;
+}
+
+.header{
+    background-color: blue;
+}
+
+#title{
+    color: blue;
+}
+
+#welcome{
+    color: red;
+}
+
+#jumbo{
+    border-radius: 20px;
+}
+
+.name{
+    font-size: 25px;
+}
+
+.CEO{
+    font-size: 15px;
+}
+
+.exchange{
+    font-size: 15px;
+}
+
+.website{
+    font-size: 15px;
+}
+
+.description{
+    font-size: 20px;
+}
+
